@@ -1,7 +1,7 @@
 # Project 2 - Exploratory Data Analysis (EDA)
 
 ## Overview
-
+This project was completed as part of the DecodeLabs Data Analytics Internship Program (Project 2)
 This project focuses on performing Exploratory Data Analysis (EDA) on an e-commerce dataset to identify trends, patterns, and outliers. The analysis helps understand customer behavior, product demand, payment preferences, and sales performance.
 
 ## Objectives
